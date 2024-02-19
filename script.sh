@@ -1,2 +1,2 @@
 #! /bin/bash
-echo "this is first build"
+echo "this is first build-auto"
